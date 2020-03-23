@@ -8,8 +8,8 @@
 
 |  参数 | 说明  |
 | :------------ | :------------ |
-|  -i | bilibili视频av号  |
-|  --id | bilibili视频av号  |
+|  -i | bilibili视频bvid  |
+|  --id | bilibili视频bvid  |
 
 - 运行
 
