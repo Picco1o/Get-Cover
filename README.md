@@ -17,4 +17,4 @@
 
 - 示例
 
-	python getCover.py -i 95860928
+	python getCover.py -i 177411T7J6
