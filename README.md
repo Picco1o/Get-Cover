@@ -17,4 +17,4 @@
 
 - 示例
 
-	python getCover.py -i 177411T7J6
+	python getCover.py -i BV177411T7J6
